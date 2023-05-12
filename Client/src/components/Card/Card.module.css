@@ -1,0 +1,25 @@
+
+.card{
+    border: 2px solid rgba(40, 34, 38, 0.876);
+    width: 32%;    
+    border-radius: 10%;
+    background-color: rgb(79, 216, 102);
+}
+.container {
+
+    width: fit-content;
+    background-color: rgb(197, 197, 219);
+}
+img{
+    width: 85%;
+    border-radius: 15%;
+    border-color: black;
+    border-style: groove;
+    padding: 0%;
+}
+.boton{ 
+    /* padding: 20%; */
+    border-radius: 10%;
+    width: 160px; 
+    height: 80px;
+}

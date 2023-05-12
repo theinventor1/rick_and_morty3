@@ -1,0 +1,40 @@
+.form {
+    width: 90%;
+    height: 40vh; 
+    background-color: #090f11cb;
+    padding:  30px;
+    border-radius: 4px;
+}
+.container{
+    display: flex;
+    flex-direction: column; /*bonita1*/
+    flex-wrap: wrap;
+    padding : 6px;
+    /* justify-content: space-between; */
+    align-content: center; /*bonita2*/
+}
+label{
+    color:beige
+}
+input{
+    padding: 8px;
+    margin: 4px;
+    font-size: 18px;
+    width: 5%;
+}
+.botontrok{
+    background-color: rgb(134, 180, 65);
+    color: rgb(110, 37, 37);
+    width: 3%;
+    height: 5vh; 
+    align-content: center; /*bonita2*/
+}
+.danger{
+    background-color: wheat;
+    padding:  10px;
+    border-radius: 2px;
+}
+button:hover{
+    background-color: aquamarine;
+    color:rgb(134, 180, 65)
+}

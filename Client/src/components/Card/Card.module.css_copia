@@ -1,0 +1,38 @@
+.card{
+    border: 4px solid rgba(76, 74, 87, 0.801);
+    border-radius: 10px;
+    width: 18%;
+
+}
+img{
+    height: 33%;
+    width: 80%;
+    margin: 25px;
+    border-radius: 28px;
+}
+
+.botin {
+    border-radius: 28px;
+    border-style: groove;
+    border-width: 8px;
+    margin: 15px;
+    padding: 25px; 
+    width: 80%;
+}
+.btn{
+    position: relative;
+    cursor: pointer;
+    background-color: transparent;
+    border-style: 1px;
+    border-color: rgb(212, 13, 13);
+    width: 60%;
+    padding: 5px;
+    height: 10%;
+    /* margin-top: 10px; 
+    margin-left: 90px; */
+}
+.cards_container{
+    display: flex;
+    padding: 15px;
+    border: 8px solid rgba(241, 222, 235, 0.345)
+}
